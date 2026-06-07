@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I'm Saurabh Waghmare<br><br>I'm a passionate Python Full Stack Developer who enjoys building scalable web applications and solving real-world problems through code. My primary tech stack includes Python, Django, React.js, JavaScript, SQL, and modern web technologies. I have experience developing frontend and backend solutions, working with databases, REST APIs, and version control using Git.<br><br>I enjoy learning new technologies, improving my problem-solving skills, and contributing to projects that create meaningful impact. Currently, I'm focused on advancing my full-stack development expertise, exploring system design concepts, and preparing for software engineering opportunities.
+Hi, I'm Saurabh Waghmare 👋<br><br>
+
+I'm a passionate AI Enthusiast, Python Full Stack Developer, and Unity Game Developer who enjoys building intelligent applications, immersive gaming experiences, and scalable web solutions. My primary tech stack includes Python, Django, React.js, JavaScript, SQL, C#, Unity, and modern AI technologies. I have experience developing full-stack applications, integrating APIs, working with databases, and creating interactive games using Unity.<br><br>
+
+I'm particularly interested in Artificial Intelligence, Machine Learning, Generative AI, and Game Development, where I enjoy transforming ideas into practical and engaging solutions. From developing web applications and backend systems to designing game mechanics and implementing AI-driven features, I continuously seek opportunities to solve real-world problems through technology.<br><br>
+
+I enjoy learning emerging technologies, strengthening my problem-solving abilities, and working on projects that create meaningful impact. Currently, I'm focused on advancing my expertise in AI Engineering, Full Stack Development, System Design, and Unity Game Development, while preparing for software engineering opportunities that allow me to build innovative products and experiences. 🚀<br><br>
+
+💡 Areas of Interest: Artificial Intelligence, Machine Learning, Generative AI, Full Stack Development, Backend Engineering, System Design, Game Development, and Software Architecture.<br><br>
+
+🚀 Always learning, always building, and always exploring new technologies.
 
 
 ## 🌐 Socials:
