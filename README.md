@@ -7,9 +7,9 @@ I'm particularly interested in Artificial Intelligence, Machine Learning, Genera
 
 I enjoy learning emerging technologies, strengthening my problem-solving abilities, and working on projects that create meaningful impact. Currently, I'm focused on advancing my expertise in AI Engineering, Full Stack Development, System Design, and Unity Game Development, while preparing for software engineering opportunities that allow me to build innovative products and experiences. 🚀<br><br>
 
-💡 Areas of Interest: Artificial Intelligence, Machine Learning, Generative AI, Full Stack Development, Backend Engineering, System Design, Game Development, and Software Architecture.<br><br>
+Areas of Interest: Artificial Intelligence, Machine Learning, Generative AI, Full Stack Development, Backend Engineering, System Design, Game Development, and Software Architecture.<br><br>
 
-🚀 Always learning, always building, and always exploring new technologies.
+Always learning, always building, and always exploring new technologies.
 
 
 ## 🌐 Socials:
