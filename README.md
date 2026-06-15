@@ -5,7 +5,7 @@ I'm a passionate AI Enthusiast, Python Full Stack Developer, and Unity Game Deve
 
 I'm particularly interested in Artificial Intelligence, Machine Learning, Generative AI, and Game Development, where I enjoy transforming ideas into practical and engaging solutions. From developing web applications and backend systems to designing game mechanics and implementing AI-driven features, I continuously seek opportunities to solve real-world problems through technology.<br><br>
 
-I enjoy learning emerging technologies, strengthening my problem-solving abilities, and working on projects that create meaningful impact. Currently, I'm focused on advancing my expertise in AI Engineering, Full Stack Development, System Design, and Unity Game Development, while preparing for software engineering opportunities that allow me to build innovative products and experiences. 🚀<br><br>
+I enjoy learning emerging technologies, strengthening my problem-solving abilities, and working on projects that create meaningful impact. Currently, I'm focused on advancing my expertise in AI Engineering, Full Stack Development, System Design, and Unity Game Development, while preparing for software engineering opportunities that allow me to build innovative products and experiences.<br><br>
 
 Areas of Interest: Artificial Intelligence, Machine Learning, Generative AI, Full Stack Development, Backend Engineering, System Design, Game Development, and Software Architecture.<br><br>
 
