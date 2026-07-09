@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Saurabh Waghmare 👋<br><br>
 
 I'm a passionate AI Enthusiast, Python Full Stack Developer, and Unity Game Developer who enjoys building intelligent applications, immersive gaming experiences, and scalable web solutions. My primary tech stack includes Python, Django, React.js, JavaScript, SQL, C#, Unity, and modern AI technologies. I have experience developing full-stack applications, integrating APIs, working with databases, and creating interactive games using Unity.<br><br>
